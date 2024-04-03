@@ -1,0 +1,18 @@
+﻿body
+{
+}
+
+h1
+{
+    font-size: 28pt;
+    color:orange;
+    font-family: Arial, sans-serif;
+}
+
+p
+{
+    color: darkviolet;
+    font-weight: bold;
+    font-style: italic;
+    text-indent: 1.5em;
+}

@@ -1,0 +1,20 @@
+﻿body {
+}
+
+#par1
+{
+    text-align: right;
+    text-transform: lowercase;
+}
+#par2
+{
+    text-align: center;
+    color: white;
+    background-color: red;
+    text-transform: uppercase;
+}
+#par3
+{
+    text-align: justify;
+    text-transform: capitalize;
+}

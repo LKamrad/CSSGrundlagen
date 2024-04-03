@@ -1,0 +1,9 @@
+﻿body {
+}
+
+a:link, a:visited, a:active
+{
+    text-decoration: none;
+    color: blue;
+    display: block;
+}

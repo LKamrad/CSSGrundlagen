@@ -1,0 +1,28 @@
+﻿body
+{
+}
+
+div
+{
+    background-color: grey;
+    padding: 25px 30px;
+    max-width: 700px;
+    min-width: 500px;
+}
+
+    div  div
+    {
+        color: white;
+        background-color: black;
+        padding: 30px;
+        margin: 10px;
+        border: 1px dashed white;
+        box-sizing: border-box;
+        left: 0;
+        right: 0;
+    }
+
+    div p
+    {
+        color: gray;
+    }

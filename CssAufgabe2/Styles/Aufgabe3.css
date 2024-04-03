@@ -1,0 +1,28 @@
+﻿body
+{
+}
+
+h1
+{
+    font-size: 28pt;
+    color: orange;
+    font-family: Arial, sans-serif;
+}
+
+p
+{
+    color: darkviolet;
+    font-weight: bold;
+    font-style: italic;
+    text-indent: 1.5em;
+    line-height: 2em;
+    letter-spacing: 0.3em;
+}
+
+h2
+{
+    color: maroon;
+    line-height: 2em;
+    letter-spacing: 0.3em;
+    word-spacing:3.5em;
+}

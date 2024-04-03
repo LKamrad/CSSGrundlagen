@@ -1,0 +1,36 @@
+﻿body
+{
+}
+
+h1
+{
+    font-size: 28pt;
+    color: orange;
+    font-family: Arial, sans-serif;
+    background-color: #FF00FF;
+    border: 1px solid black;
+}
+
+p
+{
+    color: darkviolet;
+    font-weight: bold;
+    font-style: italic;
+    text-indent: 1.5em;
+    line-height: 2em;
+    letter-spacing: 0.3em;
+    background-color: yellow;
+    border-bottom: dotted orange;
+    border-right: dotted orange;
+}
+
+h2
+{
+    color: maroon;
+    line-height: 2em;
+    letter-spacing: 0.3em;
+    word-spacing: 3.5em;
+    background-color: lightgray;
+    border-left: 10px solid red;
+    border-top: 10px solid red;
+}
