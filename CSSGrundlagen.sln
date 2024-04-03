@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CssAufgabe3", "CssAufgabe3\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CssAufgabeBoxlayout", "CssAufgabeBoxlayout\CssAufgabeBoxlayout.csproj", "{890DE65C-57E3-419E-BE9D-AC7E0E48D575}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CssAufgabeTabelle", "CssAufgabeTabelle\CssAufgabeTabelle.csproj", "{27467645-1CE3-4C24-81AB-ADD28BC0AB3E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{890DE65C-57E3-419E-BE9D-AC7E0E48D575}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{890DE65C-57E3-419E-BE9D-AC7E0E48D575}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{890DE65C-57E3-419E-BE9D-AC7E0E48D575}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27467645-1CE3-4C24-81AB-ADD28BC0AB3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27467645-1CE3-4C24-81AB-ADD28BC0AB3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27467645-1CE3-4C24-81AB-ADD28BC0AB3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27467645-1CE3-4C24-81AB-ADD28BC0AB3E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

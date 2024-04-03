@@ -1,0 +1,26 @@
+﻿body {
+}
+
+table, th, td
+{
+    border: 1px solid;
+    border-collapse: collapse;
+}
+th, td
+{
+    
+    padding: 10px;
+}
+th{
+    font-weight:bold;
+    text-align: left;
+}
+td#selector{
+    font-style:italic;
+    text-align:center;
+}
+td#beispiel
+{
+    font-family: monospace;
+    text-align: center;
+}
