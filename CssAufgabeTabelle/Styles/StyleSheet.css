@@ -16,11 +16,12 @@ th{
     text-align: left;
 }
 
-td#selector{
-    font-style:italic;
-    text-align:center;
+td:first-child
+{
+    font-style: italic;
+    text-align: center;
 }
-td#beispiel
+td:nth-child(2)
 {
     font-family: monospace;
     text-align: center;

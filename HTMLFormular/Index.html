@@ -1,0 +1,75 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link href="Style/StyleSheet.css" rel="stylesheet" />
+</head>
+<body>
+    <form action="" method="post">
+
+        <table>
+            <tr>
+                <th colspan="3"><h1>Formulare und Formularelemente</h1></th>
+            </tr>
+            <tr>
+                <td colspan="2"><label for="vorname">Vorname: </label></td>
+                <td><input type="text" id="vorname" required /><label class="validation"> </label></td>
+            </tr>
+
+            <tr>
+                <td colspan="2"><label for="nachname">Nachname:</label></td>
+                <td><input type="text" id="nachname" required /><label class="validation"> </label></td>
+            </tr>
+
+            <tr>
+                <td colspan="2"><label for="email">E-Mail:</label></td>
+                <td><input type="text" id="email" required /><label class="validation"> </label></td>
+            </tr>
+            <tr>
+                <td><input type="radio" id="rbman" name="geschlecht" value="man" /></td>
+                <td><label for="rbman">männlich</label></td>
+            </tr>
+            <tr>
+                <td><input type="radio" id="rbfra" name="geschlecht" value="frau" /></td>
+                <td><label for="rbfra">weiblich</label></td>
+            </tr>
+            <tr>
+                <td><input type="radio" id="rbdiv" name="geschlecht" value="divers" checked /></td>
+                <td><label for="rbdiv">divers</label></td>
+            </tr>
+            <tr>
+                <td colspan="2"><label>Tätigkeit:</label></td>
+                <td>
+                    <select size="1" name="tatigkeit">
+                        <option value="1">Programmierer</option>
+                        <option value="2">Systemintegrator</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3"><h1>Projekte</h1></td>
+            </tr>
+            <tr>
+                <td><input type="checkbox" name="projekte" value="Web-Anwendung" /></td>
+                <td><label>Web-Anwendung</label></td>
+            </tr>
+            <tr>
+                <td><input type="checkbox" name="projekte" value="Wpf-Anwendung" /></td>
+                <td><label>Wpf-Anwendung</label></td>
+            </tr>
+            <tr>
+                <td><input type="checkbox" name="projekte" value="JavaScript-Anwendung" /></td>
+                <td><label>JavaScript-Anwendung</label></td>
+            </tr>
+            <tr>
+                <td colspan="2"><input type="submit" name="Abschicken" value="Abschicken"/> </td>
+                <td><input type="reset" name="zurück" /></td>
+
+            </tr>
+        </table>
+
+
+    </form>
+</body>
+</html>

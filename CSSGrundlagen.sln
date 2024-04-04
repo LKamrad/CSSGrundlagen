@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CssAufgabeBoxlayout", "CssA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CssAufgabeTabelle", "CssAufgabeTabelle\CssAufgabeTabelle.csproj", "{27467645-1CE3-4C24-81AB-ADD28BC0AB3E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CssNthChild", "CssNthChild\CssNthChild.csproj", "{39D3A4C9-CF61-46ED-98E1-12E169CF921A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTMLFormular", "HTMLFormular\HTMLFormular.csproj", "{ACE4D6BD-3D6C-48B7-9C90-F8EC9A8E56D0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{27467645-1CE3-4C24-81AB-ADD28BC0AB3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{27467645-1CE3-4C24-81AB-ADD28BC0AB3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{27467645-1CE3-4C24-81AB-ADD28BC0AB3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39D3A4C9-CF61-46ED-98E1-12E169CF921A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39D3A4C9-CF61-46ED-98E1-12E169CF921A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39D3A4C9-CF61-46ED-98E1-12E169CF921A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39D3A4C9-CF61-46ED-98E1-12E169CF921A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACE4D6BD-3D6C-48B7-9C90-F8EC9A8E56D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACE4D6BD-3D6C-48B7-9C90-F8EC9A8E56D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACE4D6BD-3D6C-48B7-9C90-F8EC9A8E56D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACE4D6BD-3D6C-48B7-9C90-F8EC9A8E56D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

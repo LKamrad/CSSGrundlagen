@@ -1,0 +1,14 @@
+﻿body
+{
+}
+
+.validation
+{
+    color: white;
+}
+
+input[type=text]:valid + label:after
+{
+    content: ' ✔';
+    color: green;
+}

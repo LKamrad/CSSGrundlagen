@@ -1,0 +1,35 @@
+﻿body
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.chess_board
+{
+    border: 2px solid;
+    border-collapse: collapse;
+}
+
+td
+{
+    width: 80px;
+    height: 80px;
+    font-size: 60px;
+    border: 1px solid;
+    text-align: center;
+    letter-spacing: 0px;
+    word-spacing: 0px;
+    padding: 0px;
+}
+
+tr:nth-child(odd) td:nth-child(even)
+{
+    background-color: lightgray;
+}
+
+tr:nth-child(even) td:nth-child(odd)
+{
+    background-color: lightgray;
+}
